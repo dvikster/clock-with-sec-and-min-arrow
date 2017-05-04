@@ -4,7 +4,8 @@
     margin: 0 auto;
     position: relative;
     border-radius: 50%;
-    background-image: url("image/clock-bg-2.jpeg");
+    /*background-image: url("image/clock-bg-2.jpeg");*/
+    background-image: url("image/blank-clock-template-clock.jpg");
     background-size: 100%;
     background-repeat: no-repeat;
 
