@@ -1,0 +1,27 @@
+#clock{
+    width: 720px;
+    height: 720px;
+    margin: 0 auto;
+    position: relative;
+    border-radius: 50%;
+    background-image: url("image/clock-bg-2.jpeg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+img{
+    left: 50%;
+    display: block;
+    position: absolute;
+
+}
+#sec_arrow{
+    margin-left: -12px;
+    top: 112px;
+    transform-origin: 52% 71%;
+}
+#min_arrow{
+    top: 32px;
+    margin-left:-24px;
+    transform-origin: 50% 80%;
+}
